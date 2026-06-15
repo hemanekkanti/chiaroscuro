@@ -1,5 +1,5 @@
 # chiaroscuro
-Dufour shading (commonly known as Dufour map shading or Swiss style relief shading) is a foundational cartographic technique used to create a realistic, three-dimensional illusion of mountain topography on flat maps. The technique is named after General Guillaume-Henri Dufour, a Swiss cartographer, engineer, and army general who supervised the creation of the Topographic Map of Switzerland (the "Dufour Map") between 1845 and 1865.
+Dufour shading (commonly known as Dufour map shading or Swiss style relief shading) is a cartographic technique used to create a realistic, three-dimensional illusion of mountain topography on flat maps. The technique is named after General Guillaume-Henri Dufour, a Swiss cartographer, engineer, and army general who supervised the creation of the Topographic Map of Switzerland (the "Dufour Map") between 1845 and 1865.
 
 ## What's so special about Dufour Shading?
 Traditional historical maps used rudimentary hatching lines (hachures) to indicate slope steepness, which often made maps look cluttered and difficult to read. Dufour revolutionized this by introducing a highly artistic yet systematic method of hachure shading based on a specific lighting model:
